@@ -7,8 +7,8 @@
    * [<strong>Programa En Pantuflas</strong>](#programa-en-pantuflas)
       * [<strong>¿De qué va esto?</strong>](#de-qué-va-esto)
       * [<strong>Esquema</strong>](#esquema)
-      * [<strong>Colección de insignias</strong>](#insignias)
-      * [<strong>Mi diario empieza aquí</strong>](#tu-diario-empieza-aquí)
+      * [<strong>Colección de insignias</strong>](#colección-de-insignias)
+      * [<strong>Mi diario empieza aquí</strong>](#mi-diario-empieza-aquí)
 
 
 
@@ -48,3 +48,4 @@ Este es el esquema de cada apunte del diario:
 
 
 ## **Mi diario empieza aquí**
+
