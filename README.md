@@ -49,3 +49,28 @@ Este es el esquema de cada apunte del diario:
 
 ## **Mi diario empieza aquí**
 
+---
+​
+**Fecha**: 19/02/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+- Conseguir una beca para formar parte de la zona premium de Web reactiva
+- Participar en el directo de los retos livechallenge
+
+**Próximos hitos**
+- Añadir al primer reto la importación del json y tests unitarios
+- Hacer el segundo reto
+---
+
+**Fecha**: 23/02/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+- Importar el json del primer reto con fetch y async/await
+
+**Próximos hitos**
+- Añadir al primer reto tests unitarios
+- Hacer el segundo reto
