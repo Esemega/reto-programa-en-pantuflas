@@ -150,3 +150,20 @@ Este es el esquema de cada apunte del diario:
 - Añadir los milisegundos
 
 ``#retos-livechallenge``
+
+---
+
+**Fecha**: 02/03/2021
+
+**Humor**: ☹️
+
+**Hitos conseguidos**:
+- Funcionalidad a los botones añadida (intentando entender los hooks de React)
+- Actualizar README del segundo reto para explicar lo que hace la app
+
+**Próximos hitos**
+- Añadir los milisegundos
+- Cambiar el diseño un poco
+- Empezar alguno de los cursos premium, p.e. Leyendo código
+
+``#retos-livechallenge``
