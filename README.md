@@ -42,20 +42,20 @@ Este es el esquema de cada apunte del diario:
 
 ![](https://img.shields.io/badge/Pantufla_1-1/1-orange?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAALCAYAAAESMn1bAAAABGdBTUEAALGPC/xhBQAAAQxJREFUOBGtkzsOAVEUho1XoaHVUKqVFsAi0EhEPQtQK21Ar7YAtUZiAVQSQTQq0ZDxHe65Zm68gpN8Of953sm9mVgMC4KgJN5DrPFJOEnCmlYkkfc0TXugGl+0mnzVBq6g2Ied5HVvHr1xGyMxEyvYgtggUnQDGjowljw+oXV0Ba4f7fm+n9PCV55FI7DX8XIJjXFQOyDK7waGNHWhBVPYg1jv4aBUtIBMhbTNJynIC1sLx6F5ubVr3++3ZI8ygs09UJsjfPjtKfQQFtXM5gU+AQ0Th93E5NM695FnKAtHOENBhvB1WELLxBl0G2agFv2bnp1Gt3yZWPNZj5u/td9fXuryV9kndwf+EV8AiiIWaJvPWVAAAAAASUVORK5CYII=)
 ![](https://img.shields.io/badge/Pantufla_5-5/5-orange?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAALCAYAAAESMn1bAAAABGdBTUEAALGPC/xhBQAAAQxJREFUOBGtkzsOAVEUho1XoaHVUKqVFsAi0EhEPQtQK21Ar7YAtUZiAVQSQTQq0ZDxHe65Zm68gpN8Of953sm9mVgMC4KgJN5DrPFJOEnCmlYkkfc0TXugGl+0mnzVBq6g2Ied5HVvHr1xGyMxEyvYgtggUnQDGjowljw+oXV0Ba4f7fm+n9PCV55FI7DX8XIJjXFQOyDK7waGNHWhBVPYg1jv4aBUtIBMhbTNJynIC1sLx6F5ubVr3++3ZI8ygs09UJsjfPjtKfQQFtXM5gU+AQ0Th93E5NM695FnKAtHOENBhvB1WELLxBl0G2agFv2bnp1Gt3yZWPNZj5u/td9fXuryV9kndwf+EV8AiiIWaJvPWVAAAAAASUVORK5CYII=)
-![](https://img.shields.io/badge/Pantufla_15-8/15-orange?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAALCAYAAAESMn1bAAAABGdBTUEAALGPC/xhBQAAAQxJREFUOBGtkzsOAVEUho1XoaHVUKqVFsAi0EhEPQtQK21Ar7YAtUZiAVQSQTQq0ZDxHe65Zm68gpN8Of953sm9mVgMC4KgJN5DrPFJOEnCmlYkkfc0TXugGl+0mnzVBq6g2Ied5HVvHr1xGyMxEyvYgtggUnQDGjowljw+oXV0Ba4f7fm+n9PCV55FI7DX8XIJjXFQOyDK7waGNHWhBVPYg1jv4aBUtIBMhbTNJynIC1sLx6F5ubVr3++3ZI8ygs09UJsjfPjtKfQQFtXM5gU+AQ0Th93E5NM695FnKAtHOENBhvB1WELLxBl0G2agFv2bnp1Gt3yZWPNZj5u/td9fXuryV9kndwf+EV8AiiIWaJvPWVAAAAAASUVORK5CYII=)
+![](https://img.shields.io/badge/Pantufla_15-9/15-orange?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAALCAYAAAESMn1bAAAABGdBTUEAALGPC/xhBQAAAQxJREFUOBGtkzsOAVEUho1XoaHVUKqVFsAi0EhEPQtQK21Ar7YAtUZiAVQSQTQq0ZDxHe65Zm68gpN8Of953sm9mVgMC4KgJN5DrPFJOEnCmlYkkfc0TXugGl+0mnzVBq6g2Ied5HVvHr1xGyMxEyvYgtggUnQDGjowljw+oXV0Ba4f7fm+n9PCV55FI7DX8XIJjXFQOyDK7waGNHWhBVPYg1jv4aBUtIBMhbTNJynIC1sLx6F5ubVr3++3ZI8ygs09UJsjfPjtKfQQFtXM5gU+AQ0Th93E5NM695FnKAtHOENBhvB1WELLxBl0G2agFv2bnp1Gt3yZWPNZj5u/td9fXuryV9kndwf+EV8AiiIWaJvPWVAAAAAASUVORK5CYII=)
 
-<figure style="display:inline;" class="image"><img src="https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla1.png" height="100" width="100"></figure>
-<figure style="display:inline;" class="image"><img src="https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla5.png" height="100" width="100"></figure>
+<figure class="image"><img src="https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla1.png" height="100" width="100"></figure>
+<figure class="image"><img src="https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla5.png" height="100" width="100"></figure>
 
 ![](https://img.shields.io/badge/%F0%9F%98%80_Chancla_3-3/3-yellow) 
-![](https://img.shields.io/badge/%F0%9F%98%80_Chancla_7-4/7-yellow)
+![](https://img.shields.io/badge/%F0%9F%98%80_Chancla_7-5/7-yellow)
 
-<figure style="display:inline;" class="image"><img src="https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-chanclahappy3.png" height="100" width="100"></figure>
+<figure class="image"><img src="https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-chanclahappy3.png" height="100" width="100"></figure>
 
 ![](https://img.shields.io/badge/%E2%98%B9%EF%B8%8F_Bota_3-1/3-blueviolet)
 
 ![](https://img.shields.io/badge/%F0%9F%87%B2%20Bot%C3%B3n%20Malandriner-1%2F1-brown)
-<figure style="display:inline;" class="image"><img src="https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/badge-boton-malandriner.png" height="100" width="100"></figure>
+<figure class="image"><img src="https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/badge-boton-malandriner.png" height="100" width="100"></figure>
 
 <br></br>
 
@@ -63,6 +63,21 @@ Este es el esquema de cada apunte del diario:
 Orden: de más actual a menos
 <br><br/>
 
+---
+
+**Fecha**: 17/03/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+- Cursos de la zona premium terminados "Leyendo código", "Empezando con git" y "Bases programación orientada a objetos".
+- Terminado blog de prueba con Next y Tailwind
+
+**Próximos hitos**
+- Empezar el curso de introducción a Laravel
+- Continuar con la prueba de sitio estático con 11ty
+
+``#next #11ty #cursos-premium #poo #git``
 
 ---
 
